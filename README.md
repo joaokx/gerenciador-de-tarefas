@@ -47,7 +47,7 @@ Instruções para Execução
 ---
 
 Clonar o Repositório:
-git clone https://github.com/pedrobertani/GerenciadorDeTarefas.git
+
 cd GerenciadorDeTarefas
 
 
